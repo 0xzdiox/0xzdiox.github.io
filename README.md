@@ -1,2 +1,2 @@
-# zdiox.github.io
+# 0xzdiox.github.io
 Hardware security research blog
